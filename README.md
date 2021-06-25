@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jakubpav
-- I’m interested in C/C++, enbded systems & web development
+- I’m interested in C/C++, embedded systems & web development
 
 <!---
 jakubpav/jakubpav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
